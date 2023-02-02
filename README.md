@@ -29,9 +29,7 @@ Väja töötada universaalne broneerimissüsteem.
 - Laura-Maria Jõgi
 - Liis Auväärt
 
-### Projekt
-
-Iga tiimi liikme nimi ja vastused kolmele küsimusele:
+### Tiimi vastused kolmele küsimusele:
 
 - Sander Vilter
 
