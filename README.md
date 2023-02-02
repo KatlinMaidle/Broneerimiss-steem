@@ -37,6 +37,8 @@ Iga tiimi liikme nimi ja vastused kolmele küsimusele:
 - Üks pehme oskus, mida õppisin ja endas arendasin
 - Üks tehniline oskus, mida õppisin ja endas arendasin
 
+
+
 - Sander Vilter
 
   - Üks pehme oskus, mida õppisin ja endas arendasin:
