@@ -23,11 +23,11 @@ Väja töötada universaalne broneerimissüsteem.
 - Kätlin Maidle TA-21
 - Liisi Kuusküll TA - 21
 - Helen Reimand TA-21
-- Merike Ers Ä
-- Anna Sepp
-- Jana Nigu
-- Laura-Maria Jõgi
-- Liis Auväärt
+- Merike Ers Ä-21
+- Anna Sepp Ä-21
+- Jana Nigu Ä-21
+- Laura-Maria Jõgi Ä-21
+- Liis Auväärt Ä-21
 
 ### Iga tiimi liikme nimi ja vastused kolmele küsimusele:
 
