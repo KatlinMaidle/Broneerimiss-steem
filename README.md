@@ -12,8 +12,9 @@ Väja töötada universaalne broneerimissüsteem.
 - Wordpress plugina kasutamine?
 
 ### Lingid
+- https://www.figma.com/file/eSo2d2V3ByXpoGiQU3n5Uw/Booking?node-id=0%3A1&t=qcTCwWDNsJfdw3ot-0
+- https://broneeringud.ta21kask.itmajakas.ee/?p=1
 
-- 
 ### Töövahendid
 - Figma
 - WordPress
