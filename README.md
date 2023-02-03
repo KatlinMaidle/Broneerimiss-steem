@@ -14,7 +14,9 @@ Väja töötada universaalne broneerimissüsteem.
 ### Lingid
 
 - 
-
+### Töövahendid
+- Figma
+- WordPress
 
 ### Meeskond
 
@@ -57,9 +59,9 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
 - Liisi Kuusküll
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  - Üks pehme oskus, mida õppisin ja endas arendasin:Tiimitöö
+  - Üks tehniline oskus, mida õppisin ja endas arendasin:Wordpress ja selle erinevate pluginatega tutvumine
+  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:Ei
 
 - Helen Reimand
 
