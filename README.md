@@ -13,9 +13,9 @@ Välja töötada universaalne broneerimissüsteem.
 
 ### Lingid
 - Ärikorralduse esitlus https://kak-my.sharepoint.com/:p:/g/personal/merike_ers_ametikool_ee/ESXuFpkn5uZPrMCpC9FFJTcB-W9ApzbG39IR4PaTH51Fig?e=KbZNlW
-- https://www.figma.com/file/eSo2d2V3ByXpoGiQU3n5Uw/Booking?node-id=0%3A1&t=qcTCwWDNsJfdw3ot-0
-- https://broneeringud.ta21kask.itmajakas.ee/?p=1
-- https://codepen.io/wlabarron/pen/yYrPRQ
+- Figma https://www.figma.com/file/eSo2d2V3ByXpoGiQU3n5Uw/Booking?node-id=0%3A1&t=qcTCwWDNsJfdw3ot-0
+- Wordpress https://broneeringud.ta21kask.itmajakas.ee/?p=1
+- Codepen https://codepen.io/wlabarron/pen/yYrPRQ
 
 ### Töövahendid
 - Figma
