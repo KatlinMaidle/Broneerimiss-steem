@@ -9,7 +9,7 @@ Väja töötada universaalne broneerimissüsteem.
 
 - Arutamine tiimiga - kuidas, mida ja misk?
 - Teha visuaal. 
-- Wordpress plugina kasutamine? Kas on võimalik?
+- Wordpress plugina kasutamine?
 
 ### Lingid
 
