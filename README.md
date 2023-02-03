@@ -3,7 +3,7 @@
 
 ## Eesmärk
 
-Väja töötada universaalne broneerimissüsteem.
+Välja töötada universaalne broneerimissüsteem.
 
 ## To-do list
 
