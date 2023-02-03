@@ -51,9 +51,9 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
   
 
 - Kätlin Maidle
-
+  Suure tiimiga ühele meelele jõudmine ja koostöö õppimine.
+  Figma (Sandri käest nippide õppimine),veidi Wordpressi (esimesel päeval).
   
-
 - Silja Kask
   Suure tiimiga töötamine, kellega ei ole varem koos töötanud.
   Wordpress, ChatGPT
