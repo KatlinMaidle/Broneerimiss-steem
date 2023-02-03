@@ -7,7 +7,7 @@ Väja töötada universaalne broneerimissüsteem.
 
 ## To-do list
 
-- Arutamine tiimiga - kuidas, mida ja misk?
+- Arutamine tiimiga - kuidas, mida ja miks?
 - Teha visuaal. 
 - Wordpress plugina kasutamine?
 
