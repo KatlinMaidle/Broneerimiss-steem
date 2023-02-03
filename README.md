@@ -12,6 +12,7 @@ Väja töötada universaalne broneerimissüsteem.
 - Wordpress plugina kasutamine?
 
 ### Lingid
+- Ärikorralduse esitlus https://kak-my.sharepoint.com/:p:/g/personal/merike_ers_ametikool_ee/ESXuFpkn5uZPrMCpC9FFJTcB-W9ApzbG39IR4PaTH51Fig?e=KbZNlW
 - https://www.figma.com/file/eSo2d2V3ByXpoGiQU3n5Uw/Booking?node-id=0%3A1&t=qcTCwWDNsJfdw3ot-0
 - https://broneeringud.ta21kask.itmajakas.ee/?p=1
 
@@ -42,62 +43,55 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
 - Sander Vilter
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  
 
 - Kätlin Maidle
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  
 
 - Silja Kask
-
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  Suure tiimiga töötamine, kellega ei ole varem koos töötanud.
+  Wordpress, ChatGPT
+  Ei
+  
 
 - Liisi Kuusküll
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:Tiimitöö
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:Wordpress ja selle erinevate pluginatega tutvumine
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:Ei
+  Tiimitöö
+  Wordpress ja selle erinevate pluginatega tutvumine
+  Ei
 
 - Helen Reimand
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin: Suhtlemisoskus
-  - Üks tehniline oskus, mida õppisin ja endas arendasin: Wordpress, Plugins
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: Ei
+  Suhtlemisoskus
+  Wordpress, Plugins
+  Ei
 
 - Merike Ers
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  
 
 - Anna Sepp
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  Konflikti lahendamine, suhtlemine meeskonnas, kiirelt otsuste vastuvõtmine.
+  Gifthub
+  Ei oleks soovinud, sain jääda oma liistude juurde ja samas näha teise osapoole tööd. 
 
 - Jana Nigu
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin: Mõtete/ideede selge ja konkreetne väljendamine. 
-  - Üks tehniline oskus, mida õppisin ja endas arendasin: Tehnilised terminid ja töös kasutatavad programmid.
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: Ei
+  Mõtete/ideede selge ja konkreetne väljendamine. 
+  Tehnilised terminid ja töös kasutatavad programmid.
+  Ei
 
 - Laura-Maria Jõgi
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  Pehme oskus- uudsete ideede ja lahenduste loomine tarkvara teemade pōhine ja oma vajaduste järgi
+  Tehniline oskus- githubi ja figma kasutusvõimalused ja erinevad tehnilised platformid kodulehe loomiseks
 
 - Liis Auväärt
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  pehme oskus - arutlemine tarkvara teemal, 
+  tehniline oskus - wireframe mõiste, koostamine, 
+  ül sobis mulle
 
 
