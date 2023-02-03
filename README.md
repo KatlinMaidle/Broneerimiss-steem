@@ -84,9 +84,9 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
 
 - Jana Nigu
 
-  - Üks pehme oskus, mida õppisin ja endas arendasin:
-  - Üks tehniline oskus, mida õppisin ja endas arendasin:
-  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas:
+  - Üks pehme oskus, mida õppisin ja endas arendasin: Mõtete/ideede selge ja konkreetne väljendamine. 
+  - Üks tehniline oskus, mida õppisin ja endas arendasin: Tehnilised terminid ja töös kasutatavad programmid.
+  - Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas: Ei
 
 - Laura-Maria Jõgi
 
