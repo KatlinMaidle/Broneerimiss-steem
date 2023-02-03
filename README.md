@@ -70,7 +70,7 @@ Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?
   Wordpress, Plugins
   Ei
 
-- Merike Ers
+- Merike Ers Tiimitöö ülesannete jagamine, suhtlemine. Github, millega tutvuks rohkem. Antud olukorras kõik OK
 
   
 
